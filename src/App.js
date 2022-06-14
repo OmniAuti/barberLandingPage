@@ -8,7 +8,7 @@ function App() {
   return (
     <main className="relative App over border-solid md:container md:mx-auto w-screen flex flex-col md:h-screen justify-center py-5">
       <h1 className="font-extrabold text-5xl text-center mx-5">
-        Hoppy
+        The Hoppy
         <img className="w-24 inline-block" src="./imgs/hoppyBarberLogo.png" />
         Barber
       </h1>

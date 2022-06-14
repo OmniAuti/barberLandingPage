@@ -56,7 +56,7 @@ const Payments = () => {
           className="w-full text-center my-5 outline-offset-4 outline-blue-500"
           value="Bo.culkeen.89@gmail.com"
         />
-        <img className="w-10 h-10" src="./imgs/copy.png" />
+        <img className="w-10 h-10" src="./imgs/copy.svg" />
       </div>
     </div>
   );
